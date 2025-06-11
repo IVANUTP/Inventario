@@ -31,8 +31,8 @@ Esta es una aplicación web desarrollada con Laravel y Tailwind CSS para la gest
 - Control de stock, precios y descripción
 
 ### Reportes
-- Generación de reportes filtrados por diferentes criterios
-- Exportación de reportes en formatos PDF y Excel
+- Generación de reportes 
+- Exportación de reportes en formatos  Excel
 
 ## Requisitos previos
 
